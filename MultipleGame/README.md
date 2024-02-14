@@ -1,4 +1,5 @@
 # MultipleGame
+score : 6.40/10
 
 Ce code contient une classe qui contient 4 fonctions.
 

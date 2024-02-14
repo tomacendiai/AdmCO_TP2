@@ -1,4 +1,5 @@
 # SimpleGame
+score : 0.00/10
 
 Ce code contient une classe contenant 2 fonctions : 
 
