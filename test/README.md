@@ -1,4 +1,5 @@
 # test
+score : 7.50/10
 
 Ce code constitue une interface utilisateur pour jouer au jeu de Pierre/Feuille/Ciseaux (Rock-Paper-Scissors). Voici son organisation :
 
