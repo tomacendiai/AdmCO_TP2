@@ -44,4 +44,5 @@ Pour utiliser ce projet, importez les modules nécessaires et créez des instanc
 
 ## Remarque
 
-Ce projet est une implémentation simple du jeu de Pierre/Feuille/Ciseaux en utilisant des concepts de programmation orientée objet et des fonctions Python. Il peut être étendu avec de nouvelles fonctionnalités ou amélioré pour une expérience utilisateur plus enrichissante.
+La version zippée de ce projet se trouve dans le dossier "dist". Il contient un projet sous format .whl et le même sous format .tar
+Pour lancer une partie de Pierre/Feuille/Ciseaux il suffit de se placer dans le dossier "AdmCO_TP2-1.0" et lancer la commande "python test/test.py"
